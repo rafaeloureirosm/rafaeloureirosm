@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Loureiro</h1>
 
-- 💻 I’m a Data Scientist/Analyst
+- 💻 I’m a Data Eng./Analyst
 - 📈 I’m always learning new skills. Learning never ends !
 - 📊 I’m looking to collaborate with other Data Scientists and Analysts
 
